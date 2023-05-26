@@ -31,9 +31,9 @@ I constantly strive to stay updated with the latest technologies and industry be
 
 ## Experience
 
-- [Company 1](https://company1.com) - Position, Start Date - End Date
+- [Truvisory Solutions PVT LTD](https://www.truvisorysolutions.com/) - Developer, 14th April 2023 - Present
   - Description of your role and accomplishments.
-- [Company 2](https://company2.com) - Position, Start Date - End Date
+- [Onward Technologies](https://www.onwardgroup.com/) - DevOps Engineer, 1st Feb2022 - 1st feb 2023
   - Description of your role and accomplishments.
 
 ## Education
