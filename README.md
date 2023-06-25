@@ -35,7 +35,9 @@ I constantly strive to stay updated with the latest technologies and industry be
 
 - [Truvisory Solutions PVT LTD](https://www.truvisorysolutions.com/) - Software Developer, 14th April 2023 - Present
  
-- [Onward Technologies](https://www.onwardgroup.com/) - DevOps Engineer, 1st Feb2022 - 1st feb 2023
+- [Onward Technologies](https://www.onwardgroup.com/) - DevOps Engineer, 1st Feb 2022 - 1st feb 2023
+
+- [Nxt Wave](https://www.ccbp.in/) - Trainee, 7Th June 2021 - 1st Jan 2022 
  
 
 ## Education
